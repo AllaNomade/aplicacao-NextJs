@@ -10,7 +10,6 @@ const Inicio = () => {
       height: "100vh",
     }}>
       <Navegador texto="Estiloso" destino="/estiloso" cor="brown" />
-      <Navegador texto="Exemplo"  destino="/xemplo" cor="cornflowerblue" />
       <Navegador texto="Jsx" destino="/jsx" cor="crimson" />
       <Navegador texto="navegação #01" destino="/navegacao" cor="yellow" />
       <Navegador texto="navegação Dinâmina" destino="/cliente/sp-2/123" cor="pink" />
